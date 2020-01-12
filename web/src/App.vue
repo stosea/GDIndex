@@ -40,7 +40,7 @@
 					href="#"
 					target="_blank"
 				>
-					<v-icon>mdi-github-circle</v-icon>&nbsp;GitHub</v-btn
+					<v-icon>#</v-icon>&nbsp;GitHub</v-btn
 				>
 			</v-toolbar-items>
 		</v-app-bar>
