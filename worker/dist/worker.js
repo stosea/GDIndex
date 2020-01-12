@@ -1,9 +1,9 @@
 self.props = {
-	title: 'GDIndex',
-	default_root_id: 'root',
+	title: 'TuT NetFlix',
+	default_root_id: '1oiKqN_ajiQdjopSPuH0_6nUnh4N1imt8',
 	client_id: '202264815644.apps.googleusercontent.com',
 	client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-	refresh_token: '',
+	refresh_token: '1//0gJxBQMAxiQPWCgYIARAAGBASNwF-L9IrAX7VwPMTsAFzdOLkoalLqqUrcC-ip1w5K7ajL7mWh_8ifK73ACevDgf5iDXKf8W5kw4',
 	auth: false,
 	user: '',
 	pass: '',
